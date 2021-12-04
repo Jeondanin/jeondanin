@@ -4,10 +4,10 @@
 My name is DANIN JEON, and I am a SIER about system engineering and deeplearning.
 
 <a href="https://github.com/Jeondanin">
-  <img height="224" src="https://github-readme-stats.vercel.app/api?username=Jeondanin&show_icons=true&theme=prussian" />
+  <img height="224" src="https://github-readme-stats.vercel.app/api?username=Jeondanin&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Jeondanin">
-  <img height="224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondanin&theme=prussian" />
+  <img height="224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondanin&theme=tokyonight" />
 </a>
 
 
